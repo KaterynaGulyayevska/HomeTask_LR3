@@ -15,6 +15,7 @@ public class test {
             }
 
             System.out.println("OK, Well done!");
+            System.out.println("See you!");
         }
     }
 }

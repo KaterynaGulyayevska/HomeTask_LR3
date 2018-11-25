@@ -11,10 +11,10 @@ public class test {
             System.out.println("Input number form 0 --> 9");
             userNumber = sc.nextInt();
             if (userNumber != computerNumber) {
-                System.out.println("You are wrong!");
+                System.out.println("You are wrong!!!");
             }
 
-            System.out.println("Well done!");
+            System.out.println("OK, Well done!");
         }
     }
 }

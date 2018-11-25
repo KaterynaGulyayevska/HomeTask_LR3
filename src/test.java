@@ -15,7 +15,7 @@ public class test {
                     System.out.println("You are wrong!");
                 } else {
 
-                System.out.println("You are win!");
+                System.out.println("Game over");
                 }
             }
         }

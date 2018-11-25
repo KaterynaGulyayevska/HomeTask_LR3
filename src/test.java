@@ -5,7 +5,9 @@ public class test {
 
         public static void main(String[] args) {
 
-            Scanner sc = new Scanner(System.in);
+            System.out.println("Hello!");
+                
+                Scanner sc = new Scanner(System.in);
             int computerNumber = (int) (Math.random() * 10);
             int userNumber = 0;
             while (userNumber != computerNumber) {

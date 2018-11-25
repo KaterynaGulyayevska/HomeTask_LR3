@@ -21,7 +21,7 @@ public class test {
                 }
 
                 /*Max were here*/
-                System.out.println("Play with Hillel team");
+                System.out.println("Play with Us!!!<--");
             }
 
         }

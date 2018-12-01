@@ -1,4 +1,6 @@
 # Folder .idea
 /idea/*
+
+#files
 *.iml
 *.class

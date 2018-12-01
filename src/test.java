@@ -18,7 +18,6 @@ public class test {
                 System.out.println("Game over");
                 }
 
-                System.out.println("Play with us");
             }
 
         }
